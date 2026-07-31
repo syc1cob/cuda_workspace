@@ -19,41 +19,11 @@ This example is intended for beginners learning CUDA programming.
 
 ```
 vector_addition/
-├── CMakeLists.txt
 ├── main.cu
 ├── README.md
 └── .gitignore
 ```
 
-## Build
-
-```bash
-mkdir build
-cd build
-
-cmake ..
-make
-```
-
-## Run
-
-Default vector size:
-
-```bash
-./vector_addition
-```
-
-Specify vector length:
-
-```bash
-./vector_addition 4096
-```
-
-Example:
-
-```bash
-./vector_addition 1000000
-```
 
 ## Concepts Covered
 
