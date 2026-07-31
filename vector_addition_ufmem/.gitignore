@@ -1,0 +1,61 @@
+# Visual Studio
+.vs/
+
+# Build output
+Debug/
+Release/
+x64/
+x86/
+
+# Intermediate files
+*.obj
+*.pch
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.tlog
+*.log
+
+# Executables
+*.exe
+*.dll
+*.lib
+*.exp
+
+# CUDA
+*.cubin
+*.ptx
+*.fatbin
+
+# Visual Studio project cache
+*.VC.db
+*.VC.opendb
+
+# Object files
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.exe
+
+# CUDA
+*.cubin
+*.fatbin
+*.ptx
+
+# Visual Studio
+.vs/
+*.vcxproj*
+*.sln
+
+# VS Code
+.vscode/
+
+# CLion
+.idea/
+
+# Linux
+*.swp
+*~
