@@ -1,0 +1,41 @@
+# Build directories
+build/
+cmake-build-*/
+out/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+CTestTestfile.cmake
+Testing/
+
+# Object files
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.exe
+
+# CUDA
+*.cubin
+*.fatbin
+*.ptx
+
+# Visual Studio
+.vs/
+*.vcxproj*
+*.sln
+
+# VS Code
+.vscode/
+
+# CLion
+.idea/
+
+# Linux
+*.swp
+*~
